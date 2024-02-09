@@ -2,7 +2,7 @@
 Developed entirely natively using Jetpack Compose for Android.
 
 ## Demo
-![](demo.gif)
+<img src="demo.gif" width="300" height="700"  alt="demo">
 
 ## Build
 No additional setup is needed.
